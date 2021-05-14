@@ -1,7 +1,7 @@
 # WHATSAPP-BANEO S3NS3I
 questo git funziona per vietare il WhatsApp della vittima,
 per problemi con i token
-lo script funziona solo per la compagnia di telecomunicazioni italiana
+lo script funziona solo per la compagnia di telecomunicazioni statunitense
 # SISTEMA BAN ITA
 # CREADOR : S3NS3IX03
 # COMMAND : 
