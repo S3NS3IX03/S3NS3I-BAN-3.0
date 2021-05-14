@@ -6,8 +6,8 @@ lo script funziona solo per la compagnia di telecomunicazioni italiana
 # CREADOR : S3NS3IX03
 # COMMAND : 
 
-$ git clone https://github.com/S3NS3IX03/S3NS3I-BAN-.git
+$ git clone https://github.com/S3NS3IX03/S3NS3I-BAN-3.0.git
 
-$ cd S3NS3I-BAN-
+$ cd S3NS3I-BAN-3.0
 
 $ bash BANEO.sh
